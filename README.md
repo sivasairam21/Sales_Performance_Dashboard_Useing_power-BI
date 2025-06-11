@@ -5,6 +5,7 @@ This repository contains a Power BI dashboard designed to analyze sales performa
 ## Dataset
 
 The dataset used for this project contains sales data with information such as order date, product details, sales amount, profit, etc. Before utilizing the data for calculations and visualizations, relevant table transformations and data modeling have been performed to ensure accuracy and efficiency in analysis.
+https://github.com/sivasairam21/Sales_Performance_Dashboard_Useing_power-BI/blob/main/Sales_Dataset.xlsx
 
 ## Key Features
 
